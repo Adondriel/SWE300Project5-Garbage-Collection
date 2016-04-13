@@ -44,6 +44,5 @@ public class weakGC {
 	         System.out.println("Strong List After GC Value at location " + i + " is " + hardRefSavePoints.get(i));
 	      }
 	      int end = 0;
-
 	   }
 }
